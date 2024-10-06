@@ -7,6 +7,11 @@ public class Test {
 		System.out.println("updated login method");
 	}
 	
+	public static void logout()
+	{
+		System.out.println("updated logout method");
+	}
+	
 	public static void main(String[]args)
 	{
 		login();
