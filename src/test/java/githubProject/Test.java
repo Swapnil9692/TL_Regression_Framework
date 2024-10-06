@@ -6,6 +6,7 @@ public class Test {
 	{
 		System.out.println("This is Working Directory");
 		System.out.println("This is After First Push");
+		System.out.println("This is After First Branch");
 		
 	}
 }
